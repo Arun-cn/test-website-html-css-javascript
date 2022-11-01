@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    
+} 
+#hedaer {
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 80px;
+    background-color: #e3e6f3;
+    box-shadow: 0 5 15 rgba(0, green0, blue0, alpha0.06);
+
+}
+#navbar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+.logo {
+     
+    height: 40px;
+}
+#navbar li{
+ list-style: none;
+ padding: 0 20px;
+}
