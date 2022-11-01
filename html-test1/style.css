@@ -41,3 +41,6 @@
 #navbar li a:hover{
   color: #088178;
 }
+#navbar li a.active{
+  color: #088178;
+}
